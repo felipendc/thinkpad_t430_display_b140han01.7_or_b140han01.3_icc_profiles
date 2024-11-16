@@ -16,7 +16,7 @@
   
  This repository is for my personal use only.😉✌️
  If you wish to download this file, feel free. 
- But I also recommend downloading it from the official repository.
+ But I recommend downloading it from the official repository.
  The link is available down below.👇</pre> 
 
 <br />
