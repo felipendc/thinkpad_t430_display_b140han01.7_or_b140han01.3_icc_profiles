@@ -33,6 +33,8 @@
 ![](https://github.com/felipendc/thinkpad_t430_display_b140han01.7_or_b140han01.3_icc_profiles/blob/main/DEMO_PICS/Captura%20de%20Tela%20(28).png)
 ![](https://github.com/felipendc/thinkpad_t430_display_b140han01.7_or_b140han01.3_icc_profiles/blob/main/DEMO_PICS/Captura%20de%20Tela%20(23).png)
 ![](https://github.com/felipendc/thinkpad_t430_display_b140han01.7_or_b140han01.3_icc_profiles/blob/main/DEMO_PICS/Captura%20de%20Tela%20(22).png)
+![](https://github.com/felipendc/thinkpad_t430_display_b140han01.7_or_b140han01.3_icc_profiles/blob/main/DEMO_PICS/Captura%20de%20Tela%20(50).png)
+![](https://github.com/felipendc/thinkpad_t430_display_b140han01.7_or_b140han01.3_icc_profiles/blob/main/DEMO_PICS/Captura%20de%20Tela%20(51).png)
 ![]()
 ![]()
 
