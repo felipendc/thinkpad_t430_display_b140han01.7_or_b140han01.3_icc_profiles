@@ -22,7 +22,7 @@
 <br />
 
 > **SPECIAL THANKS TO:** [notebookcheck](www.notebookcheck.net)🥇 <br />
-> **Official Website:** hwww.notebookcheck.net
+> **Official Website:** www.notebookcheck.net
 
 <br />
 
