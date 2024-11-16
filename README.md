@@ -15,7 +15,7 @@
  Windows 11 version 22631.3155 and the colors are 98% DCI-P3!🥇🧐  
   
  This repository is for my personal use only.😉✌️
- If you wish to download this file, feel free. 
+ If you wish to download these files, feel free. 
  But I recommend downloading it from the official repository.
  The link is available down below.👇</pre> 
 
