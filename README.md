@@ -6,7 +6,8 @@
 <pre> IMPORTANT NOTE:🎯 <br />
  The display that I've installed on my Thinkpad T430 is the version B140HAN01.7, 
  but I've no idea why the program HWiNFO is displaying it as if it is the B140HAN01.3. 
- But, I'm using the B140HAN03.6_LEN40A9_01_yoga_x1_2nd_gen ICC profile on my B140HAN01.7 because I like its color calibration.👔
+ But, I'm using the B140HAN03.6_LEN40A9_01_yoga_x1_2nd_gen ICC profile on my B140HAN01.7 
+ because I like its color calibration, and it is incredibly awesome!👔
 
   
  🎓 OBSERVATIONS:
